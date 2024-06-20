@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  height: 55px;
+  width: 200px;
+  border-radius: 9px;
+  border-width: 1px;
+  border-color: #ffffff;
+  list-style-type: none;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

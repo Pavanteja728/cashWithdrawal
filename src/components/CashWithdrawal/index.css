@@ -1,0 +1,85 @@
+/* Write your CSS here */
+
+.button1 {
+  background-color: #c7d2fe;
+  border-radius: 50px;
+  height: 60px;
+  width: 60px;
+  color: #7c3aed;
+  border-width: 0px;
+  margin-right: 20px;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #d4d2db;
+}
+
+.start-details {
+  display: flex;
+  flex-direction: row;
+}
+
+.bgCont {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardCont {
+  background-color: #150b3e;
+  border-radius: 10px;
+  border-width: 0px;
+  height: 600px;
+  width: 600px;
+  padding: 30px;
+  padding-top: 30px;
+}
+
+.head2 {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #585076;
+}
+
+.head3 {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #d4d2db;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #585076;
+}
+
+.space {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.head4 {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #d4d2db;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #585076;
+  font-weight: 600;
+}
+.unis {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
